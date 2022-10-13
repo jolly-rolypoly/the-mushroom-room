@@ -1,0 +1,19 @@
+h1 {
+    font-family: cursive;
+}
+
+body {
+
+    background-color: lightblue;
+}
+
+ul {
+    float: left;
+}
+
+li {
+    display: inline;
+    border: 3px solid blue;
+    padding: 5px;
+    margin: auto 5px;
+}
